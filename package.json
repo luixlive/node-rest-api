@@ -12,11 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "eslint": "^4.4.1",
     "express": "^4.15.4",
     "mongodb": "^2.2.30",
     "mongoose": "^4.10.8"
   },
   "devDependencies": {
+    "eslint-config-google": "^0.9.1",
     "expect": "^1.20.2",
     "mocha": "^3.5.0",
     "nodemon": "^1.11.0",
